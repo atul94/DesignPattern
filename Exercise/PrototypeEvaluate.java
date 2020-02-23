@@ -3,7 +3,7 @@ package com.activemesa.creational.prototype.exercise;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class Evaluate
+public class PrototypeEvaluate
 {
   @Test
   public void test()
