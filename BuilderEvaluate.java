@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class Evaluate
+public class BuilderEvaluate
 {
   private String preprocess(String text)
   {
