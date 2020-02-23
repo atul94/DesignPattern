@@ -1,4 +1,4 @@
-package com.activemesa.creational.factories.exercise;
+
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
