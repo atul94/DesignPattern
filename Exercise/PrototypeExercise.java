@@ -1,4 +1,4 @@
-package com.activemesa.creational.prototype.exercise;
+
 
 class Point
 {
