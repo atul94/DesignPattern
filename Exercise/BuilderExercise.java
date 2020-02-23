@@ -1,4 +1,3 @@
-package com.activemesa.creational.builder.exercise;
 
 import org.junit.Test;
 import org.junit.Assert;
