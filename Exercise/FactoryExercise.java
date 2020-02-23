@@ -1,4 +1,4 @@
-package com.activemesa.creational.factories.exercise;
+
 
 class Person
 {
